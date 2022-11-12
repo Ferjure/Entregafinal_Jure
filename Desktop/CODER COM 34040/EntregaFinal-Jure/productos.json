@@ -1,0 +1,6 @@
+[
+    {"nombre": "Remera", "tipo": "Remera de crosfit", "precio": 3500, "descripcion": "Remera para crossfit dryfit Talle S-XL" },
+    {"nombre": "Medias", "tipo": "Medias algodónn", "precio": 1000, "descripcion": "medias de algodón talle Universal" },
+    {"nombre": "Gorras", "tipo": "Gorras deportivas", "precio": 2000, "descripcion": "Gorra Under talle Universal" },
+    {"nombre": "Raquetas", "tipo": "Raquetas de tenis", "precio": 3000, "descripcion": "Raquetas de tenis wilson" }
+]
